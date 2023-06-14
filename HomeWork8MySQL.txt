@@ -1,0 +1,39 @@
+ 1 уровень сложности: 1. Установите СУБД MongoDB на свой компьютер.
+
+
+Опишите документ "кредит" с произвольными полями.
+
+{
+    id_credit: 't4943',
+    name: 'Tom',
+    surname: 'Smith',
+    birthday: "1985.06.28",
+    created_at: '1985.06.28',
+    currency: 'usd',
+    amount: 1000000
+    
+}
+
+
+Опишите документ "заказ" с произвольными полями.
+
+{
+    id_order: 't4943',
+    name_order: 'Order',
+    created_at: '1985.06.28',
+    name: 'Tom',
+    surname: 'Smith',
+    place: 'Berlin',
+    currency: 'usd',
+    company: {
+        name : 'Microsoft',
+        price : 100
+    }
+}
+
+
+Конспект занятия
+https://western-appeal-39b.notion.site/GenTech-Jun-8-2023-7e46fad99818427288b81b3d324d1bf2?pvs=4 
+
+
+2 уровень сложности: 
